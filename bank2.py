@@ -131,7 +131,7 @@ def userlogin():
 def menu():
     while True:
         print("\n----- Welcome to the Apna Bank  ------")
-        print("Note---->> If you don't have account please create an account first, else there will be an error")
+        print("Note---->> 1.If you don't have account please create an account first, else there will be an error\n2.Save your face data first for admin login(face unlock) using file named new")
         print("1. Admin Login (Face Unlock)")
         print("2. User Login")
         print("3. Create Account")
